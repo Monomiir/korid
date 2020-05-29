@@ -1,7 +1,7 @@
 VERSION 5.00
 Begin VB.Form Form1 
    BorderStyle     =   1  '단일 고정
-   Caption         =   "주민등록번호 생성기 by Xeriars"
+   Caption         =   "주민등록번호 생성기"
    ClientHeight    =   4335
    ClientLeft      =   45
    ClientTop       =   435
@@ -221,9 +221,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
-'Coded by Xeriars
-'Blog : http://xeriars.tistory.com
-'E-Mail : xeriars@gmail.com
+
 
 Private Sub Command1_Click()
 
